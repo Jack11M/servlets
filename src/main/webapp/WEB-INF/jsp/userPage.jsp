@@ -5,9 +5,7 @@
         <meta charset="utf-8">
         <title>User page</title>
         <style>
-            body {
-                background-color: SeaGreen;
-            }
+            <%@include file="/WEB-INF/css/success.css"%>
         </style>
     </head>
     <body>

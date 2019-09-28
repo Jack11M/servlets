@@ -5,12 +5,10 @@
     <head>
         <meta charset="utf-8">
         <title>Login</title>
+        <style>
+            <%@include file="/WEB-INF/css/login.css"%>
+        </style>
     </head>
-    <style>
-        body {
-        	background-color: #DAA520;
-        }
-    </style>
     <body>
     <c:import url="../jspf/header.jspf" charEncoding="utf-8"> </c:import>
         <center>

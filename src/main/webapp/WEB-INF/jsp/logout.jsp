@@ -3,14 +3,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-    <meta charset="utf-8">
-    <title>Logout</title>
-</head>
-    <style>
-       	body {
-       		background-color: #DB7093;
-       	}
-    </style>
+        <meta charset="utf-8">
+        <title>Logout</title>
+        <style>
+            <%@include file="/WEB-INF/css/login.css"%>
+        </style>
+    </head>
     <body>
     <c:import url="../jspf/header.jspf" charEncoding="utf-8"> </c:import>
 
