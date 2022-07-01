@@ -20,7 +20,7 @@
         <junit.version>4.12</junit.version>
         <mockito.all.version>1.9.5</mockito.all.version>
         <javax.servlet.version>4.0.1</javax.servlet.version>
-        <tomcat.catalina.version>7.0.53</tomcat.catalina.version>
+        <tomcat.catalina.version>7.0.81</tomcat.catalina.version>
         <lombok.version>1.18.6</lombok.version>
         <jstl.version>1.2</jstl.version>
         <jackson.core.version>2.9.8</jackson.core.version>
